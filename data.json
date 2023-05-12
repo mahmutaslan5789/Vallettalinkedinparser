@@ -1,0 +1,724 @@
+[
+  {
+    position: 'Junior Front-End Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-developer-at-patterned-learning-ai-3603792112?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=NUnUb%2BWbWWUyfIsicBFzFQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Software Engineer - Frontend (Remote)',
+    company: 'The Home Depot',
+    location: 'Atlanta, GA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/software-engineer-frontend-remote-at-the-home-depot-3601671595?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=ZqW5A6EXK02LpNWkyV1UPw%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Junior Frontend Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-frontend-developer-at-patterned-learning-ai-3603900391?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=ZTh7c6O4eR2T7hA8350EHg%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Junior Software Engineer Full Stack-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-engineer-full-stack-canada-at-patterned-learning-ai-3603775504?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=Xs4M3blSze1DQ7zMzjOiaQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Software Engineer- Remote',
+    company: 'The Home Depot',
+    location: 'Atlanta, GA',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/software-engineer-remote-at-the-home-depot-3598069413?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=KwIfKC1ZiW7b8fYqX0oMlw%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Junior Software Engineer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-engineer-at-patterned-learning-ai-3603796977?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=ktXE3syvzNM6DHJXsAZqYw%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Junior Full Stack Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-full-stack-developer-at-patterned-learning-ai-3602437959?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=beQKBdOx5YQFd7onnm2iNw%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Junior Full Stack Engineer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-full-stack-engineer-at-patterned-learning-ai-3603902624?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=F53CncgzgUIDqJ%2B87d6cbA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Junior Web Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-web-developer-at-patterned-learning-ai-3603445443?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=%2BDo6lb06j8gfb%2B0lN9oxzw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Junior Front-End Developer-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-developer-canada-at-patterned-learning-ai-3603900275?refId=457vwG64Qzs98MXZGeTwTg%3D%3D&trackingId=lFDprSMPDmQe8Gx7AFzsyA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card'
+  },
+  {
+    position: 'Junior Front-End Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-developer-at-patterned-learning-ai-3603792112?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=X%2FF%2FpKiPPQV4FOUVWCkC%2Fw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Front-End Developer-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-developer-canada-at-patterned-learning-ai-3603900275?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=oNQk8VwYuZxvDsbpJRyR3A%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Engineer - Frontend (Remote)',
+    company: 'The Home Depot',
+    location: 'Atlanta, GA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/software-engineer-frontend-remote-at-the-home-depot-3601671595?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=AkZQny8VFoRjXgq%2Fe8mlMQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Software Engineer Full Stack',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-10',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-engineer-full-stack-at-patterned-learning-ai-3602917061?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=9d1NPwfaMQGT%2FLczfvMNqg%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Front-End Software Engineer-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-10',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-software-engineer-canada-at-patterned-learning-ai-3602923073?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=rm1ZshhRe%2F4FHI6n2LAWUg%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Front-End Software Engineer-US',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-software-engineer-us-at-patterned-learning-ai-3604738975?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=W4dBuDagoyXtOVHKeFd3iQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Frontend Developer-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-frontend-developer-canada-at-patterned-learning-ai-3603794837?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=NRdoY6v33B474Iez2MlLlA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Software Development Engineer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-development-engineer-at-patterned-learning-ai-3603777739?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=Znp8JJ%2B%2F2mBsiIZ%2F7rVnIA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Frontend Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-frontend-developer-at-patterned-learning-ai-3603900391?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=Gl9mN8fzLVbo%2FjOsSWHFWw%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Software Engineer Full Stack-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-engineer-full-stack-canada-at-patterned-learning-ai-3603775504?refId=sM%2B9RPaVuQ1Dt5gmrlkb1g%3D%3D&trackingId=eNY%2BCJfQ5sY%2FFx8bQd1vIA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Front-End Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-developer-at-patterned-learning-ai-3603792112?refId=aOxBewZea1nYZLiAzeRgQg%3D%3D&trackingId=7%2FexMTUMcH2ad9a4t5DY6Q%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Front-End Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-developer-at-patterned-learning-ai-3603792112?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=0pGxtirPY5INByLMGqahpg%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Front-End Developer-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-developer-canada-at-patterned-learning-ai-3603900275?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=fR2DyWddeRwVVA5OwxnzZg%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Engineer - Frontend (Remote)',
+    company: 'The Home Depot',
+    location: 'Atlanta, GA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/software-engineer-frontend-remote-at-the-home-depot-3601671595?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=JmseoN5OsF6V1uP4O1WTDw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Software Engineer Full Stack',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-10',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-engineer-full-stack-at-patterned-learning-ai-3602917061?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=IsGdF4kXEZ9ui1FpsFZDlw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Frontend Developer-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-frontend-developer-canada-at-patterned-learning-ai-3603794837?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=bF%2F9JEOIwNcKn6kxJHcxBQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Software Development Engineer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-development-engineer-at-patterned-learning-ai-3603777739?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=SgU%2BcbeEKE5hL9%2BJJf86UA%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Frontend Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-frontend-developer-at-patterned-learning-ai-3603900391?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=7%2FO2QasM%2FuoiBAbHBWjDzA%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Software Engineer Full Stack-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-engineer-full-stack-canada-at-patterned-learning-ai-3603775504?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=2Jzi0wMnlMLda9J2ub9HxA%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Engineer- Remote',
+    company: 'The Home Depot',
+    location: 'Atlanta, GA',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/software-engineer-remote-at-the-home-depot-3598069413?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=DqGM1lEKGnIFH9VBgur5Zg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Software Engineer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-engineer-at-patterned-learning-ai-3603796977?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=T1RWZ9z7nR1pNM%2B32HeBTA%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Full Stack Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-full-stack-developer-at-patterned-learning-ai-3602437959?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=OHJvfVGQ86L%2F2HJ7n0v68w%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Web Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-web-developer-at-patterned-learning-ai-3603445443?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=exaTO8BHWRltOeeobndIbg%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Front-End Developer-US',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-12',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-developer-us-at-patterned-learning-ai-3604852485?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=f%2FBP%2FKXfeQUGLGUryU%2FrXg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Full Stack Engineer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-full-stack-engineer-at-patterned-learning-ai-3603902624?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=m8Lmgm%2Bt1wiNvWrd2zxuWw%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Mean Stack Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-mean-stack-developer-at-patterned-learning-ai-3604747118?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=2P6RM6ABn0AdABsFmi1fCA%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Software Engineer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-08',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-engineer-at-patterned-learning-ai-3601017201?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=kwSO0ZF9dKKN8CQ8utM4Og%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Software Engineer Full Stack-US',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-08',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-software-engineer-full-stack-us-at-patterned-learning-ai-3601637502?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=Mu8uDP1F4yL7PVlM30Q5HA%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Frontend Developer-US',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-frontend-developer-us-at-patterned-learning-ai-3602446847?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=4K2884lxpVCSIHFshCRNHw%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Front-End Software Engineer-Canada',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-10',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-software-engineer-canada-at-patterned-learning-ai-3602923073?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=OmCHtkgPJrm3yxAfN4wW6A%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Junior Front-End Software Engineer-US',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/junior-front-end-software-engineer-us-at-patterned-learning-ai-3604738975?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=1MJL%2BZZkv7HJdAz79lY%2Bhg%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Engineer - Frontend',
+    company: 'Visibly',
+    location: 'Chicago, IL',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/software-engineer-frontend-at-visibly-3602786110?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=%2Biu0kGCO7vgGPxjIEceR6A%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'React Developer',
+    company: 'ROKO Labs',
+    location: 'United States',
+    date: '2023-05-05',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/react-developer-at-roko-labs-3598163126?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=dqX83W0BQKIyhumCoIRV2Q%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Frontend Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/frontend-developer-at-patterned-learning-ai-3603444340?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=3s6%2BHPLvoxyHck3klFwLYw%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Desenvolvedor(a) Front-end Jr',
+    company: 'Vertigo Tecnologia',
+    location: 'United States',
+    date: '2023-05-12',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/desenvolvedor-a-front-end-jr-at-vertigo-tecnologia-3600554482?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=eBhDoVQmPu%2FGl10tvt2DMA%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'React Developer',
+    company: 'ROKO Labs',
+    location: 'United States',
+    date: '2023-05-05',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/react-developer-at-roko-labs-3598165321?refId=IcwxP%2BitfG76v26Q0Y%2Bbrw%3D%3D&trackingId=ntCCA6pIhhsbwJelpxzY8w%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Programmer II (Remote)',
+    company: 'Five Star Credit Union',
+    location: 'Dothan, AL',
+    date: '2023-05-08',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/programmer-ii-remote-at-five-star-credit-union-3601386906?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=tvW3Obu1arAHSwxKywAZbw%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Developer - Remote | Hybrid',
+    company: 'Get It Recruit - Information Technology',
+    location: 'Charlotte, NC',
+    date: '2023-05-06',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/software-developer-remote-hybrid-at-get-it-recruit-information-technology-3595600327?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=KBwS2X4%2Fxs2%2BuIRAnKFTdQ%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Release Train Engineer',
+    company: 'Assurant',
+    location: 'United States',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/release-train-engineer-at-assurant-3561990700?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=Hj6jYaSVNaE4OnmPzp3bJQ%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'WMOS Software Engineer/Developer',
+    company: 'CVS Health',
+    location: 'Providence, RI',
+    date: '2023-05-07',
+    salary: '$90,
+    000.00-$180,
+    000.00',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/wmos-software-engineer-developer-at-cvs-health-3595661850?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=04B8ILxZw2LmLnrKv0K4OQ%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Engineer - Remote | Hybrid',
+    company: 'Get It Recruit - Information Technology',
+    location: 'Rockford, IL',
+    date: '2023-05-06',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/software-engineer-remote-hybrid-at-get-it-recruit-information-technology-3594899654?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=XcF8%2F0BcKtOf4%2FGYd9aqsQ%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Lead Application Security Engineer, Product',
+    company: 'New Relic, Inc.',
+    location: 'Newark, NJ',
+    date: '2023-05-05',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/lead-application-security-engineer-product-at-new-relic-inc-3568822073?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=F3dYuoJal8z5yJ%2BaMDgGqg%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'FE International - Full Stack Engineer Manager (Direct Hire/FTE) [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Atlanta, GA',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/fe-international-full-stack-engineer-manager-direct-hire-fte-remote-at-braintrust-3601643106?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=eF3lcOjlNvYLMW80shj2Ow%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Applications Developer',
+    company: 'Arnold & Porter',
+    location: 'Washington, DC',
+    date: '2023-05-05',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/applications-developer-at-arnold-porter-3584290850?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=7L4j6KU6loIWoXJjWp8NCg%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Remote Application Developer',
+    company: 'Global Channel Management, Inc.',
+    location: 'Marlborough, MA',
+    date: '2023-05-06',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/remote-application-developer-at-global-channel-management-inc-3594871807?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=A8VFYAqyZv0sRCPQ6J7tGg%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Full-Stack Software Engineer, Ground Infrastructure Services',
+    company: 'DroneUp',
+    location: 'Virginia Beach, VA',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/full-stack-software-engineer-ground-infrastructure-services-at-droneup-3565828174?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=hbhGkeBywjJWFJZhXMkG%2Bw%3D%3D&position=10&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: '.NET Developer - HYBRID',
+    company: 'Dice',
+    location: 'Columbus, OH',
+    date: '2023-05-06',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/net-developer-hybrid-at-dice-3599499790?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=UoHs4cus79dKk%2BJuuYbcIg%3D%3D&position=11&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Systems Project Engineer - Azure Migrations - AZ104 (Remote)',
+    company: 'Living Talent Company',
+    location: 'Tampa, FL',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/systems-project-engineer-azure-migrations-az104-remote-at-living-talent-company-3601893714?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=%2Bx8rroTPjuUyDsV%2FLuafxQ%3D%3D&position=12&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Lead Product Designer (Remote)',
+    company: 'New Relic, Inc.',
+    location: 'San Diego, CA',
+    date: '2023-05-06',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/lead-product-designer-remote-at-new-relic-inc-3599293693?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=S1kEW0%2BO%2B%2BjP1xphL5RCSg%3D%3D&position=13&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Full Stack Developer - Remote | Hybrid',
+    company: 'Get It Recruit - Information Technology',
+    location: 'Oak Ridge, TN',
+    date: '2023-05-08',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/full-stack-developer-remote-hybrid-at-get-it-recruit-information-technology-3596861388?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=mL7ZTo9L0HwpKr6YakSf4Q%3D%3D&position=14&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Orkes - Mid-Level Back End Engineer (FTE) - Direct Hire [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Seattle, WA',
+    date: '2023-05-10',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/orkes-mid-level-back-end-engineer-fte-direct-hire-remote-at-braintrust-3601286333?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=caU7eDTjq1nerqRuHk%2FsdQ%3D%3D&position=15&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Site Reliability Engineer',
+    company: 'Leidos',
+    location: 'United States',
+    date: '2023-05-12',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/site-reliability-engineer-at-leidos-3589922498?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=yRPQtcekxk5nb%2Fx26hqlWg%3D%3D&position=16&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Ruby on Rails Engineer',
+    company: 'Aha!',
+    location: 'United States',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3601659749?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=GNPErLyLo11VteN5b0wq%2Fg%3D%3D&position=17&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Developer - Connected Vehicles - Remote | WFH',
+    company: 'Get It Recruit - Hospitality',
+    location: 'Laramie County, WY',
+    date: '2023-05-06',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/software-developer-connected-vehicles-remote-wfh-at-get-it-recruit-hospitality-3594498538?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=Q9Lbm2RSDcUsiMM7LhD8CA%3D%3D&position=18&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Cognosys.ai | Software Engineer (Direct hire/FTE)) [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Atlanta, GA',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/cognosys-ai-software-engineer-direct-hire-fte-remote-at-braintrust-3599072211?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=WLAv2p52QGDltUBCWHkwMg%3D%3D&position=19&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Cognosys.ai | Software Engineer (Direct hire/FTE)) [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Boston, MA',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/cognosys-ai-software-engineer-direct-hire-fte-remote-at-braintrust-3599067805?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=SkptJU6pgRfqPjKfmwnonQ%3D%3D&position=20&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Full Stack Developer',
+    company: 'Patterned Learning AI',
+    location: 'San Francisco, CA',
+    date: '2023-05-08',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/full-stack-developer-at-patterned-learning-ai-3601211632?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=moQTbqqE0C%2FUs4Tj8g16LQ%3D%3D&position=21&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Web Application Developer (E) - Remote | Hybrid',
+    company: 'Get It Recruit - Information Technology',
+    location: 'Austin, TX',
+    date: '2023-05-06',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/web-application-developer-e-remote-hybrid-at-get-it-recruit-information-technology-3594897782?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=caGCmCRMYIBHiVv6R0YzYA%3D%3D&position=22&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'FE International - Full Stack Engineer Manager (Direct Hire/FTE) [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Boston, MA',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/fe-international-full-stack-engineer-manager-direct-hire-fte-remote-at-braintrust-3601823308?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=cvJSGaxL1K7v4Mp6k4YYVg%3D%3D&position=23&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Ruby on Rails Engineer',
+    company: 'Aha!',
+    location: 'Miami, FL',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/ruby-on-rails-engineer-at-aha%21-3601661683?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=FiCcNZfLUoK1peA6X8eY%2Fw%3D%3D&position=24&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Data Engineer',
+    company: 'Fulcrum Analytics',
+    location: 'New York, NY',
+    date: '2023-05-06',
+    salary: '',
+    jobUrl: 'https: //www.linkedin.com/jobs/view/data-engineer-at-fulcrum-analytics-3599840455?refId=Ihc%2BpaB5Bwpu9JpWvuxHpg%3D%3D&trackingId=kBzmzcmyxWX%2BkUU4uJUOog%3D%3D&position=25&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'FE International - Full Stack Engineer Manager (Direct Hire/FTE) [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Helsinki, Uusimaa, Finland',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //fi.linkedin.com/jobs/view/fe-international-full-stack-engineer-manager-direct-hire-fte-remote-at-braintrust-3601641369?refId=e5G5WKOerj1Uta8zwdJPww%3D%3D&trackingId=UmDuUcoX8OVH56QM5y8aWQ%3D%3D&position=1&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Engineer, C#',
+    company: 'GoTo',
+    location: 'Finland',
+    date: '2023-05-10',
+    salary: '',
+    jobUrl: 'https: //fi.linkedin.com/jobs/view/software-engineer-c%23-at-goto-3602954898?refId=e5G5WKOerj1Uta8zwdJPww%3D%3D&trackingId=zLKwljukQaVflYtElr8Xzg%3D%3D&position=2&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Prototype Developer [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Helsinki, Uusimaa, Finland',
+    date: '2023-05-11',
+    salary: '',
+    jobUrl: 'https: //fi.linkedin.com/jobs/view/software-prototype-developer-remote-at-braintrust-3604396140?refId=e5G5WKOerj1Uta8zwdJPww%3D%3D&trackingId=ZQ54Pj4MCKfIZqXvRT4zXw%3D%3D&position=3&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Python Developer [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Helsinki, Uusimaa, Finland',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //fi.linkedin.com/jobs/view/python-developer-remote-at-braintrust-3601646014?refId=e5G5WKOerj1Uta8zwdJPww%3D%3D&trackingId=KIjtODzuv0OF3ZHhdIp0Zw%3D%3D&position=4&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Field Software Engineer - EMEA',
+    company: 'Canonical',
+    location: 'Helsinki, Uusimaa, Finland',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //fi.linkedin.com/jobs/view/field-software-engineer-emea-at-canonical-3600380825?refId=e5G5WKOerj1Uta8zwdJPww%3D%3D&trackingId=nQbU92%2Bg7I34BEK7zOgMLA%3D%3D&position=5&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Curve | Product Designer (Mobile Native App + Fintech) - Direct Hire [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Helsinki, Uusimaa, Finland',
+    date: '2023-05-12',
+    salary: '',
+    jobUrl: 'https: //fi.linkedin.com/jobs/view/curve-product-designer-mobile-native-app-%2B-fintech-direct-hire-remote-at-braintrust-3605066657?refId=e5G5WKOerj1Uta8zwdJPww%3D%3D&trackingId=eugHjBXiM0xiWv2miM3eCQ%3D%3D&position=6&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software developer',
+    company: 'Oliver Parks',
+    location: 'Helsinki Metropolitan Area',
+    date: '2023-05-05',
+    salary: '',
+    jobUrl: 'https: //fi.linkedin.com/jobs/view/software-developer-at-oliver-parks-3214421868?refId=e5G5WKOerj1Uta8zwdJPww%3D%3D&trackingId=D4m6UWQSwEtwNje%2FRubMog%3D%3D&position=7&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Full Stack Developer (must have B2B SaaS experience) - Freelance [Remote
+    ]',
+    company: 'Braintrust',
+    location: 'Helsinki, Uusimaa, Finland',
+    date: '2023-05-09',
+    salary: '',
+    jobUrl: 'https: //fi.linkedin.com/jobs/view/full-stack-developer-must-have-b2b-saas-experience-freelance-remote-at-braintrust-3602431645?refId=e5G5WKOerj1Uta8zwdJPww%3D%3D&trackingId=MMB00cJD6ESYI50JJjeDVQ%3D%3D&position=8&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  },
+  {
+    position: 'Software Tools Engineer - Remote- UK /EU/US (Prefer St. Louis area and Not West Coast)',
+    company: 'Elekta',
+    location: 'Helsinki Metropolitan Area',
+    date: '2023-05-10',
+    salary: '',
+    jobUrl: 'https: //fi.linkedin.com/jobs/view/software-tools-engineer-remote-uk-eu-us-prefer-st-louis-area-and-not-west-coast-at-elekta-3574836184?refId=e5G5WKOerj1Uta8zwdJPww%3D%3D&trackingId=%2F4A6T%2Fv%2F%2FeQ%2Fgk%2Fh25lc5g%3D%3D&position=9&pageNum=0&trk=public_jobs_jserp-result_search-card',
+    applicants: ''
+  }
+]

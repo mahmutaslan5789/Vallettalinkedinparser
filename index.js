@@ -176,6 +176,7 @@ function parseJobList(jobData) {
           .replace(/\n/g, "")
           .replaceAll(" ", "") || "";
       const jobUrl = job.find(".base-card__full-link").attr("href") || "";
+      const napplicants = job.find(".jobs-unified-top-card__bullet").text().trim() || "";
       return {
         position: position,
         company: company,
@@ -183,6 +184,7 @@ function parseJobList(jobData) {
         date: date,
         salary: salary,
         jobUrl: jobUrl,
+        applicants: napplicants,
       };
     })
     .get();

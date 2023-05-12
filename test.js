@@ -1,14 +1,14 @@
 const linkedIn = require("./index");
 
 const queryOptions = {
-  keyword: "HR",
-  location: "India",
-  dateSincePosted: "past Week",
+  keyword: "Developer",
+  location: "Finland",
+  dateSincePosted: "past week",
   jobType: "full time",
   remoteFilter: "remote",
-  salary: "100000",
+  salary: "",
   experienceLevel: "entry level",
-  limit: "1",
+  limit: "25",
   sortBy: "recent",
 };
 
